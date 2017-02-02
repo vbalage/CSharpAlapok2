@@ -1,0 +1,14 @@
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfKitero\bin\Release\WpfKitero.exe.config
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfKitero\bin\Release\WpfKitero.exe
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfKitero\bin\Release\WpfKitero.pdb
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfKitero\obj\Release\WpfKitero.csprojResolveAssemblyReference.cache
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfKitero\obj\Release\MainWindow.g.cs
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfKitero\obj\Release\App.g.cs
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfKitero\obj\Release\WpfKitero_MarkupCompile.cache
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfKitero\obj\Release\WpfKitero_MarkupCompile.lref
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfKitero\obj\Release\MainWindow.baml
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfKitero\obj\Release\WpfKitero.g.resources
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfKitero\obj\Release\WpfKitero.Properties.Resources.resources
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfKitero\obj\Release\WpfKitero.csproj.GenerateResource.Cache
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfKitero\obj\Release\WpfKitero.exe
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfKitero\obj\Release\WpfKitero.pdb

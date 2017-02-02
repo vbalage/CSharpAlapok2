@@ -1,0 +1,6 @@
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\ConcurrentDataAccess\bin\Debug\ConcurrentDataAccess.exe.config
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\ConcurrentDataAccess\bin\Debug\ConcurrentDataAccess.exe
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\ConcurrentDataAccess\bin\Debug\ConcurrentDataAccess.pdb
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\ConcurrentDataAccess\obj\Debug\ConcurrentDataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\ConcurrentDataAccess\obj\Debug\ConcurrentDataAccess.exe
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\ConcurrentDataAccess\obj\Debug\ConcurrentDataAccess.pdb

@@ -1,0 +1,14 @@
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfApplication3\bin\Debug\WpfApplication3.exe.config
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfApplication3\obj\Debug\MainWindow.g.cs
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfApplication3\obj\Debug\App.g.cs
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.cache
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfApplication3\obj\Debug\WpfApplication3_MarkupCompile.lref
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfApplication3\bin\Debug\WpfApplication3.exe
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfApplication3\bin\Debug\WpfApplication3.pdb
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfApplication3\obj\Debug\MainWindow.baml
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfApplication3\obj\Debug\WpfApplication3.g.resources
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfApplication3\obj\Debug\WpfApplication3.Properties.Resources.resources
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfApplication3\obj\Debug\WpfApplication3.csproj.GenerateResource.Cache
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfApplication3\obj\Debug\WpfApplication3.exe
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfApplication3\obj\Debug\WpfApplication3.pdb
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\WpfApplication3\obj\Debug\GeneratedInternalTypeHelper.g.cs

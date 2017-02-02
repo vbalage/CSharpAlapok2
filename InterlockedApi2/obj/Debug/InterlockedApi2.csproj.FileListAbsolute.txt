@@ -1,0 +1,5 @@
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\InterlockedApi2\bin\Debug\InterlockedApi2.exe.config
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\InterlockedApi2\bin\Debug\InterlockedApi2.exe
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\InterlockedApi2\bin\Debug\InterlockedApi2.pdb
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\InterlockedApi2\obj\Debug\InterlockedApi2.exe
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\InterlockedApi2\obj\Debug\InterlockedApi2.pdb

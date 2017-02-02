@@ -1,0 +1,5 @@
+C:\Users\Software\Documents\Visual Studio 2015\Projects\CSharrpAlapok2\Threading002\bin\Release\Threading002.exe.config
+C:\Users\Software\Documents\Visual Studio 2015\Projects\CSharrpAlapok2\Threading002\bin\Release\Threading002.exe
+C:\Users\Software\Documents\Visual Studio 2015\Projects\CSharrpAlapok2\Threading002\bin\Release\Threading002.pdb
+C:\Users\Software\Documents\Visual Studio 2015\Projects\CSharrpAlapok2\Threading002\obj\Release\Threading002.exe
+C:\Users\Software\Documents\Visual Studio 2015\Projects\CSharrpAlapok2\Threading002\obj\Release\Threading002.pdb

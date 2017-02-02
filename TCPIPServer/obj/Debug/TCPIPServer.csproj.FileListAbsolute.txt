@@ -1,0 +1,9 @@
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\TCPIPServer\bin\Debug\TCPIPServer.exe.config
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\TCPIPServer\bin\Debug\TCPIPServer.exe
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\TCPIPServer\bin\Debug\TCPIPServer.pdb
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\TCPIPServer\obj\Debug\TCPIPServer.Form1.resources
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\TCPIPServer\obj\Debug\TCPIPServer.Properties.Resources.resources
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\TCPIPServer\obj\Debug\TCPIPServer.csproj.GenerateResource.Cache
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\TCPIPServer\obj\Debug\TCPIPServer.exe
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\TCPIPServer\obj\Debug\TCPIPServer.pdb
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\TCPIPServer\obj\Debug\TCPIPServer.csprojResolveAssemblyReference.cache

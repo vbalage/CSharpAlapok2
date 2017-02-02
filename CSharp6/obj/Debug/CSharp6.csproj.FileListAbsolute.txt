@@ -1,0 +1,6 @@
+c:\users\software\documents\visual studio 2015\Projects\CSharrpAlapok2\CSharp6\bin\Debug\CSharp6.exe.config
+C:\Users\Software\Documents\Visual Studio 2015\Projects\CSharrpAlapok2\CSharp6\bin\Debug\CSharp6.exe
+C:\Users\Software\Documents\Visual Studio 2015\Projects\CSharrpAlapok2\CSharp6\bin\Debug\CSharp6.pdb
+C:\Users\Software\Documents\Visual Studio 2015\Projects\CSharrpAlapok2\CSharp6\obj\Debug\CSharp6.csprojResolveAssemblyReference.cache
+C:\Users\Software\Documents\Visual Studio 2015\Projects\CSharrpAlapok2\CSharp6\obj\Debug\CSharp6.exe
+C:\Users\Software\Documents\Visual Studio 2015\Projects\CSharrpAlapok2\CSharp6\obj\Debug\CSharp6.pdb

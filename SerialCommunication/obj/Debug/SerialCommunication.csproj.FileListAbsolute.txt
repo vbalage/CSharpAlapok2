@@ -1,0 +1,6 @@
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\SerialCommunication\bin\Debug\SerialCommunication.exe.config
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\SerialCommunication\bin\Debug\SerialCommunication.exe
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\SerialCommunication\bin\Debug\SerialCommunication.pdb
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\SerialCommunication\obj\Debug\SerialCommunication.csprojResolveAssemblyReference.cache
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\SerialCommunication\obj\Debug\SerialCommunication.exe
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\SerialCommunication\obj\Debug\SerialCommunication.pdb

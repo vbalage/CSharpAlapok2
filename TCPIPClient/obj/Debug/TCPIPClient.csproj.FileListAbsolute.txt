@@ -1,0 +1,9 @@
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\TCPIPClient\bin\Debug\TCPIPClient.exe.config
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\TCPIPClient\bin\Debug\TCPIPClient.exe
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\TCPIPClient\bin\Debug\TCPIPClient.pdb
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\TCPIPClient\obj\Debug\TCPIPClient.csprojResolveAssemblyReference.cache
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\TCPIPClient\obj\Debug\TCPIPClient.Form1.resources
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\TCPIPClient\obj\Debug\TCPIPClient.Properties.Resources.resources
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\TCPIPClient\obj\Debug\TCPIPClient.csproj.GenerateResource.Cache
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\TCPIPClient\obj\Debug\TCPIPClient.exe
+C:\Users\Software\documents\visual studio 2015\Projects\CSharrpAlapok2\TCPIPClient\obj\Debug\TCPIPClient.pdb
